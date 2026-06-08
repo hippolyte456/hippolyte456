@@ -9,27 +9,7 @@
 <p align="center">
   <a href="https://hippolyte456.github.io/"><img src="https://img.shields.io/badge/Website-042C53?style=flat&logo=githubpages&logoColor=white" alt="Website"></a>
   <a href="mailto:hippolytedreyfus@gmail.com"><img src="https://img.shields.io/badge/Email-378ADD?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/hippolyte456?tab=followers"><img src="https://img.shields.io/github/followers/hippolyte456?style=flat&color=042C53&label=Follow" alt="Followers"></a>
 </p>
-
----
-
-### 🧠 About
-
-- 🔬 Research Engineer at **[@ICM-Frontlab-CDPR](https://github.com/ICM-Frontlab-CDPR)** & **[@neurospin](https://github.com/neurospin)** — neuroimaging acquisition, preprocessing and analysis pipelines
-- 🌱 Building **[@FeelBack-App](https://github.com/FeelBack-App)** — a digital mental health platform at the crossroads of computational psychiatry, clinical research and machine learning
-- 🎓 Engineering background from **AgroParisTech**
-- 📍 Paris, France · 🌐 [hippolyte456.github.io](https://hippolyte456.github.io/)
-
----
-
-### 🚀 FeelBack
-
-> Building useful infrastructure for mental health data — connecting clinical research, longitudinal measurement and machine learning so that brain & mental-health signals become actionable.
-
-`computational psychiatry` · `transdiagnostic / dimensional measurement` · `physiological signals` · `edge AI`
-
-➡️ **[github.com/FeelBack-App](https://github.com/FeelBack-App)**
 
 ---
 
@@ -66,13 +46,11 @@
 
 ---
 
-### 📊 GitHub
+### 🚀 FeelBack <p align="center"><i>Bridging neuroscience, data and real-world impact.</i></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hippolyte456&show_icons=true&hide_border=true&title_color=042C53&icon_color=378ADD&bg_color=00000000" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hippolyte456&layout=compact&hide_border=true&title_color=042C53&bg_color=00000000" alt="Top languages" height="160">
-</p>
+> Building useful infrastructure for mental health data — connecting clinical research, longitudinal measurement and machine learning so that brain & mental-health signals become actionable.
 
----
+`computational psychiatry` · `transdiagnostic / dimensional measurement` · `physiological signals` · `edge AI`
 
-<p align="center"><i>Bridging neuroscience, data and real-world impact.</i></p>
+➡️ **[github.com/FeelBack-App](https://github.com/FeelBack-App)**
+

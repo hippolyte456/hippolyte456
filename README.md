@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Hippolyte Dreyfus 👋</h1>
-
 <p align="center">
   <b>Research Engineer · Computational Neuroscience</b><br>
   Research engineering &amp; data science applied to brain data —<br>
   and impact-driven projects around mental health.
 </p>
-
 <p align="center">
   <a href="https://hippolyte456.github.io/"><img src="https://img.shields.io/badge/Website-042C53?style=flat&logo=githubpages&logoColor=white" alt="Website"></a>
   <a href="mailto:hippolytedreyfus@gmail.com"><img src="https://img.shields.io/badge/Email-378ADD?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
@@ -27,6 +25,11 @@
 ![EEG](https://img.shields.io/badge/EEG-378ADD?style=flat)
 ![MRI](https://img.shields.io/badge/MRI-378ADD?style=flat)
 ![BIDS](https://img.shields.io/badge/BIDS-042C53?style=flat)
+![FreeSurfer](https://img.shields.io/badge/FreeSurfer-042C53?style=flat)
+![FSL](https://img.shields.io/badge/FSL-1A6B9A?style=flat)
+![SimNIBS](https://img.shields.io/badge/SimNIBS-2C5F8A?style=flat)
+![Nibabel](https://img.shields.io/badge/Nibabel-3776AB?style=flat&logo=python&logoColor=white)
+![Nilearn](https://img.shields.io/badge/Nilearn-013243?style=flat&logo=python&logoColor=white)
 
 **ML & Data**
 
@@ -46,7 +49,17 @@
 
 ---
 
-### 🚀 FeelBack <p align="center"><i>Bridging neuroscience, data and real-world impact.</i></p>
+### 🔬 ICM — Institut du Cerveau
+
+> Research Engineer at the **Frontlab** group at [Institut du Cerveau (ICM)](https://institutducerveau-icm.org) — multimodal neuroimaging acquisition, preprocessing pipelines and data infrastructure for fundamental and clinical research.
+
+`MEG` · `EEG` · `MRI` · `TMS` · `BIDS` · `HPC pipelines`
+
+➡️ **[github.com/ICM-Frontlab-CDPR](https://github.com/ICM-Frontlab-CDPR)**
+
+---
+
+### 🚀 FeelBack
 
 > Building useful infrastructure for mental health data — connecting clinical research, longitudinal measurement and machine learning so that brain & mental-health signals become actionable.
 
@@ -54,3 +67,6 @@
 
 ➡️ **[github.com/FeelBack-App](https://github.com/FeelBack-App)**
 
+---
+
+<p align="center"><i>Bridging neuroscience, data and real-world impact.</i></p>
